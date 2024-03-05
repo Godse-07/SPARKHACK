@@ -18,7 +18,7 @@ echo "<script>window.location.href ='index.php'</script>";
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Curify </title>
+    <title> Care & Cure </title>
 
     <link rel="shortcut icon" href="assets/images/fav.jpg">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -50,8 +50,8 @@ echo "<script>window.location.href ='index.php'</script>";
                         <ul>
                             <li><a href="#">Home</a></li>
                             <li><a href="#" onclick="window.open('assets/curify_YOGA_Manual.pdf')" >Yoga</a></li>
+                            <li><a href="#"onclick="window.open('assets/Performance_Nutrition.pdf')" >Diet</a></li>
                             <li><a href="#about_us">About Us</a></li>
-                            <li><a href="#gallery">Gallery</a></li>
                             <li><a href="Contact.html">Contact Us</a></li>
                             <li><a href="#logins">Logins</a></li>  
                         </ul>
@@ -84,7 +84,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <img class="d-block w-100" src="assets/images/slider/image1.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">Curify</h1>
+                    <h1 class="animated bounceInDown">Care & Cure</h1>
                     <h5 class="animated bounceInDown">Healthcare Management System</h5>  
                     <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
                         
@@ -98,7 +98,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <img class="d-block w-100" src="assets/images/slider/image2.jpg" alt="Third slide">
                       <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">Curify</h1>
+                    <h1 class="animated bounceInDown">Care & Cure</h1>
                     <h5 class="animated bounceInDown">Healthcare Management System</h5>  
                     <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
             
@@ -115,7 +115,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <img class="d-block w-100" src="assets/images/slider/image3.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">Curify</h1>
+                    <h1 class="animated bounceInDown">Care & Cure</h1>
                     <h5 class="animated bounceInDown">Healthcare Management System</h5>  
                     <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
                          
